@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "set-cookie": "__cfduid=d52976eaa6d39864e76f11fb1a2a8e90a1610228236; expires=Mon, 08-Feb-21 21:37:16 GMT; path=/; domain=.deno.land; HttpOnly; SameSite=Lax; Secure",
+    "content-length": "0",
+    "date": "Sat, 09 Jan 2021 21:37:16 GMT",
+    "vary": "Accept-Encoding",
+    "cf-request-id": "078aae17070000278447916000000001",
+    "x-deno-warning": "Implicitly using latest version (0.83.0) for https://deno.land/std/io/bufio.ts",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report?s=4zmOTbgSJ6jURVukxBdCoG2%2F%2BSpMAyKsfkJMPfA0TtO44t4w4n3ntC1a9E%2FhphelXA2xZAB%2Fj3WjJu0h2wsCRRRZ%2FI0pGkhjB2A%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "nel": "{\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "cf-ray": "60f14c6b3fcc2784-PRG",
+    "server": "cloudflare",
+    "location": "/std@0.83.0/io/bufio.ts"
+  },
+  "url": "https://deno.land/std/io/bufio.ts"
+}

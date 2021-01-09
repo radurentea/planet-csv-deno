@@ -1,0 +1,24 @@
+{
+  "headers": {
+    "cf-cache-status": "HIT",
+    "cf-ray": "60f14c6bd9672784-PRG",
+    "access-control-allow-origin": "*",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report?s=2KrkeaG17mo8s6nfQymy5IIcADNTQPt8FbeAIZXpSZ6D6Ib1l%2FS0Mg5lKXnKUXfrxsLFsBQ%2BVqKPHiXKEu%2F2c1ohL%2B7LHuZIJbI%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "last-modified": "Sat, 29 Aug 2020 19:56:48 GMT",
+    "nel": "{\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "cache-control": "public, max-age=31536000, immutable",
+    "age": "193",
+    "cf-request-id": "078aae176a00002784ae026000000001",
+    "set-cookie": "__cfduid=d52976eaa6d39864e76f11fb1a2a8e90a1610228236; expires=Mon, 08-Feb-21 21:37:16 GMT; path=/; domain=.deno.land; HttpOnly; SameSite=Lax; Secure",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "vary": "Accept-Encoding",
+    "content-type": "application/javascript",
+    "x-amz-request-id": "CP5XAZ5ZAT6SBVCP",
+    "server": "cloudflare",
+    "x-amz-id-2": "g4JQPYEbPY3N+w7sAUtYeP7VNyE1RKmQW0Bu5tm3JIb5ZTAJz9l1axb54kCTruuOFH/zHjoGl44=",
+    "date": "Sat, 09 Jan 2021 21:37:16 GMT",
+    "x-amz-version-id": "null",
+    "etag": "W/\"0ede6dd05d5aa8ee688a1070e0edeeb4\""
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/kebabCase.js"
+}

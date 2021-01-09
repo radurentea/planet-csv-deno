@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "location": "/std@0.83.0/encoding/csv.ts",
+    "server": "cloudflare",
+    "cf-ray": "60f14c6b3fcb2784-PRG",
+    "content-length": "0",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report?s=NU7Gt%2FUy18xbiwfi5UlnkgScsguwrFk%2B6vfjoRf%2BxlLwDxbKX6VVhO%2Ba5kVRPJk2jaX5oqqt8UCqkJs0sGf14KNH%2FPaERsy5ZbQ%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "set-cookie": "__cfduid=d52976eaa6d39864e76f11fb1a2a8e90a1610228236; expires=Mon, 08-Feb-21 21:37:16 GMT; path=/; domain=.deno.land; HttpOnly; SameSite=Lax; Secure",
+    "x-deno-warning": "Implicitly using latest version (0.83.0) for https://deno.land/std/encoding/csv.ts",
+    "nel": "{\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "vary": "Accept-Encoding",
+    "cf-request-id": "078aae170700002784481aa000000001",
+    "date": "Sat, 09 Jan 2021 21:37:16 GMT"
+  },
+  "url": "https://deno.land/std/encoding/csv.ts"
+}
